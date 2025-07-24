@@ -12,7 +12,7 @@
 <body>
     
     
-<a href="page.php?nom=Jean&age=25">Voir profil</a>
+<a href="page.php?nom=Jean?age=25">Voir profil</a>
     
 </body>
 </html>
