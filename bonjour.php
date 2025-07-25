@@ -1,5 +1,5 @@
 <?php
-
+    echo $_GET['nom'] . "\n"; // Affiche 'Alice'
 ?>
 <!DOCTYPE html>
 <html lang="en">
