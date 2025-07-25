@@ -10,7 +10,7 @@
 </head>
 <body>
 
-    <a href="page.php?nom=Jean&age=25">Voir profil</a>
+     <p>Bonjour <?= $_GET['nom'] ?> </p>
         
 </body>
 </html>
