@@ -1,6 +1,6 @@
 <?php
-    echo $_GET['nom'] // Affiche 'Jean'
-    echo $_GET['age'] // Affiche '25'
+    echo $_GET['nom'] . "\n"; // Affiche 'Jean'
+    echo $_GET['age'] . "\n"; // Affiche '25'
 ?>
 
 <!DOCTYPE html>
@@ -11,9 +11,7 @@
     <title>Document</title>
 </head>
 <body>
-
-    
-    
-    
+    <p>nom : <?= $_GET['nom'] ?> </p>
+    <p>age : <?= $_GET['age'] ?> </p>    
 </body>
 </html>
