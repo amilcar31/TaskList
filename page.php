@@ -12,6 +12,6 @@
 </head>
 <body>
     <p>nom : <?= $_GET['nom'] ?> </p>
-    <p>age : <?= $_GET['age'] ?> </p>    
+    <p>age : <?= $_GET['age'] ?> </p>   
 </body>
 </html>
